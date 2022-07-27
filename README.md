@@ -15,7 +15,7 @@ Throughout, we focused on explanatory data visualization and learned the followi
 
 In this project, I combined these skills.
 
-The dataset I'll use describes Euro daily exchange rates between 1999 and 2021. The euro (symbolized with €) is the official currency in most of the countries of the European Union.
+The dataset I'll use describes Euro daily exchange rates between 1999 and 2022. The euro (symbolized with €) is the official currency in most of the countries of the European Union.
 
 If the exchange rate of the euro to the US dollar is 1.5, I get 1.5 US dollars if we pay 1.0 euro (one euro has more value than one US dollar at this exchange rate).
 
