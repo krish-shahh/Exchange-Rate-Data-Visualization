@@ -23,3 +23,16 @@ If the exchange rate of the euro to the US dollar is 1.5, I get 1.5 US dollars i
 
 Please contact [Krish Shah](mailto:2003kshah@gmail.com) if you have any questions or concerns. 
 
+## Graphs
+
+### Rolling Mean
+![image](https://user-images.githubusercontent.com/63075612/181342665-ed005a01-5190-4bb5-ad60-072a07283b65.png)
+![image](https://user-images.githubusercontent.com/63075612/181342726-e5b3d7e6-9e11-48e8-a8ad-95eb3e03d500.png)
+
+### Scenerio 1: Financial Crisis
+![image](https://user-images.githubusercontent.com/63075612/181342786-435991b1-6c92-445c-bce0-62d77d366070.png)
+
+### Scenerio 2: The Three US Presidencies
+![image](https://user-images.githubusercontent.com/63075612/181342852-5870ecd4-b2d2-4bcd-b1d5-e8cd5b84afd6.png)
+
+
